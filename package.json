@@ -1,0 +1,12 @@
+{
+  "name": "fauna-schema-migrate-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "fauna-schema-migrate": "file:../fauna-schema-migrate"
+  },
+  "dependencies": {
+    "faunadb": "^4.0.3"
+  }
+}
